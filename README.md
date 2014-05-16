@@ -1,0 +1,2 @@
+node-passport-sequelize-mysql
+=============================
